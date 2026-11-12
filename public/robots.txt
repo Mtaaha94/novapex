@@ -1,0 +1,7 @@
+# Robots.txt for Novapex Digital Engineering
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api
+
+Sitemap: https://novapexglobal.com/sitemap.xml

@@ -1,0 +1,6 @@
+{
+  "name": "Novapex Digital Engineering",
+  "description": "Novapex Digital Engineering builds scalable web applications, mobile apps, enterprise software, AI-powered solutions and digital products for businesses worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
